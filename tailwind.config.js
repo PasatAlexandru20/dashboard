@@ -39,7 +39,9 @@ module.exports = {
         590: "590px",
       },
       backgroundImage: {
-        "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+        // "bg-hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+        "hero-pattern": "url('https://png.pngtree.com/png-clipart/20190124/ourmid/pngtree-neon-bar-circular-border-png-image_532248.jpg)",
+        
       },
     },
   },
